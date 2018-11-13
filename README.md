@@ -18,7 +18,9 @@ checks executed:
 - are the cards on the market and therefore can not be transferred
 - is the account name you are sending to existing on the steem blockchain
 
+Example: python3.6 transfer jedigeiss bearded-benjamin all
 
+This would transfer all cards from the account jedigeiss to the account bearded-benjamin
 
 ## Prerequisites:
 
